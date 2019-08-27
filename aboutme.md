@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ovadan
+title: About me
 subtitle: Testing
 ---
 
