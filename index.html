@@ -4,6 +4,17 @@ title: My website
 subtitle: Hello, I am Ovadan
 use-site-title: true
 ---
+<div class="lines">
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+  <div class="line"></div>
+ </div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -18,12 +29,7 @@ use-site-title: true
 	  {% endif %}
     </a>
 	 
-	<div class="lines">
-  		<div class="line"></div>
-  		<div class="line"></div>
-  		<div class="line"></div>
-  	</div>
-
+	
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
