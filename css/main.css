@@ -797,11 +797,11 @@ pre {
   width: 90vw
   .line
     position: absolute
-    width: 1px
+    width: 5px
     height: 100%
     top: 0
     left: 50%
-    background: rgba(255, 255, 255, 0.1)
+    background: rgba(150, 40, 27, 1)
     overflow: hidden
     &::after
       content: ''
