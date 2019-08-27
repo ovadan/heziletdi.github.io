@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ###About Ovadan
-subtitle: 
+title: About Ovadan
+subtitle: Testing
 ---
 
 I am Ovadan Hezretgulyyeva, recently graduated form NAU with Computer Science degree. 
